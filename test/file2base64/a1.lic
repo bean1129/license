@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ZOCLicense scope="TV">
+    <License-Group component="Cert" signature="77896bc5e9c7da0e0cf7f60446017225">
+        <License component="Time" value="1665022947" />
+        <License component="Effective" value="2022-11-04" />
+        <License component="Version" value="10.9.357" />
+    </License-Group>
+    <License-Group component="Auth" signature="4cb9e0d2b72a5ceb00a360fbbce1cc5835e7054f2f96ca2fa81c8908349ddce0ec78975911e94477105c0fa9b3aa9fb4">
+        <License component="Company" value="XXX单位" />
+        <License component="Project" value="P-2020-0001" />
+        <License component="Host" value="172.19.0.2" />
+        <License component="MAC" value="02:42:AC:13:00:02" />
+        <License component="Effective" value="2022-11-01" />
+        <License component="Expiration" value="2022-12-31" />
+    </License-Group>
+    <License-Group component="Info" signature="af524701110577656443a73b42089c7e">
+        <License component="Title" value="标题栏显示语" />
+        <License component="About" value="此软件用于XXXXXXXX" />
+        <License component="Watemark" type="image/jpeg" length="27784" value="/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQE" />
+    </License-Group>
+    <License-Group component="Serv" signature="feb3c56d81e5d2fdcfd4f7086204a893">
+        <License component="S001" desc="A功能模块" />
+        <License component="S002" desc="B功能模块" />
+        <License component="S003" desc="C功能模块" />
+    </License-Group>
+    <License-Group component="User" signature="0ef0d9961646777ffaa2d386f8738839">
+        <License component="General" max="200" desc="普通用户" />
+        <License component="Special" max="15" desc="特殊用户" />
+    </License-Group>
+</ZOCLicense>
